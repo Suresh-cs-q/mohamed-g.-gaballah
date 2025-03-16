@@ -67,7 +67,7 @@ const Footer = () => {
               </li>
               <li>
                 <span className="footer-icon location-icon"></span>
-                <span>Central Michigan University</span>
+                <span>Engineering & Technology building, office 143, Central Michigan University, Mount Pleasant, MI, USA, 48858</span>
               </li>
             </ul>
           </div>

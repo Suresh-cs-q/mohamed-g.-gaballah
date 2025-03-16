@@ -51,12 +51,6 @@ const Contact = () => {
                 </div>
               </li>
               <li className="contact-item">
-                <div className="contact-icon address-icon"></div>
-                <div className="contact-content">
-                  <strong>Mailing Address:</strong> 1820 S. Crawford St. Apt#C1, Mount Pleasant, MI, USA, 48858
-                </div>
-              </li>
-              <li className="contact-item">
                 <div className="contact-icon phone-icon"></div>
                 <div className="contact-content">
                   <strong>Phone:</strong> +1 (989) 817-3810

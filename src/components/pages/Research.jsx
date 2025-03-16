@@ -89,7 +89,7 @@ const Research = () => {
                 </div>
                 <div className="project-details">
                   <p><strong>Duration:</strong> 2020-2022</p>
-                  <p><strong>Funding:</strong> $3 billion</p>
+                  <p><strong>Funding:</strong> $3 millions</p>
                   <p><strong>Link:</strong> <a href="https://www.undp.org/china/projects/mofcom-undp-trilateral-cooperation-renewable-energy-ethiopia" target="_blank" rel="noopener noreferrer">UNDP Project Page</a></p>
                 </div>
               </div>
@@ -208,7 +208,7 @@ const Research = () => {
               </div>
               <div className="grant-details">
                 <p><strong>Duration:</strong> 2020-2022</p>
-                <p><strong>Amount:</strong> $3 billion</p>
+                <p><strong>Amount:</strong> $3 millions</p>
                 <p><strong>Link:</strong> <a href="https://www.undp.org/china/projects/mofcom-undp-trilateral-cooperation-renewable-energy-ethiopia" target="_blank" rel="noopener noreferrer">UNDP Project Page</a></p>
               </div>
             </div>

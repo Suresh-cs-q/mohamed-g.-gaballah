@@ -1,6 +1,5 @@
 # Dr. Muhammad Saad - Academic Portfolio
 
-![Portfolio Banner](mu/public/banner.png)
 
 ## 📚 Overview
 
@@ -90,11 +89,6 @@ The website can be deployed to GitHub Pages using the following steps:
    npm run deploy
    ```
 
-## 📷 Screenshots
-
-![Home Page](mu/public/screenshots/home.png)
-![Research Page](mu/public/screenshots/research.png)
-![Publications Page](mu/public/screenshots/publications.png)
 
 ## 🔄 Browser Compatibility
 
@@ -137,7 +131,4 @@ mu/
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
 
-- Special thanks to all contributors who helped in the development of this portfolio website
-- Inspiration from academic portfolio websites and water/environmental design elements
